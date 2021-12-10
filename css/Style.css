@@ -1,0 +1,46 @@
+#carouselExampleIndicators .carousel-inner .item div {
+    text-align: left;
+    color: white;
+    top: 1%;
+}
+
+#footer {
+    width: 100%;
+    padding-top: 35px;
+    padding-bottom: 40px;
+    background-color: black;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.container-fluid{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.col-md-3{
+    width: 25%;
+}
+
+.col-md-6{
+    width: 50%;
+    float: left;
+}
+
+#footer h1{
+    color: #fff;
+    text-align: center;
+}
+
+.contatinho{
+    margin-top: 0px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.img-responsive {
+    max-width: 100%;
+}
