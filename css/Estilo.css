@@ -1,5 +1,14 @@
-#carouselNoticias .carousel-inner .item div{
+.carousel-caption{
     text-align: left;
-    color: white;
-    top: 1%;
+}
+
+#Minor-News{
+    width: 100%;
+    padding-top: 35px;
+    padding-left: 60px;
+    padding-bottom: 40px;
+    padding-right: 60px;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }

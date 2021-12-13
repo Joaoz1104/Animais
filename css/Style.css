@@ -1,7 +1,6 @@
-#carouselExampleIndicators .carousel-inner .item div {
+.carousel-caption{
     text-align: left;
-    color: white;
-    top: 1%;
+    top: 5%;
 }
 
 #footer {
