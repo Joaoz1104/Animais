@@ -14,11 +14,6 @@
     right: 0;
 }
 
-.container-fluid::before{
-    display: table;
-    content: " ";
-}
-
 #footer p{
     text-align: center;
 }
@@ -30,22 +25,16 @@
     margin-right: auto;
 }
 
-.text-white p{
+.mbr-text p{
     font-size: 16px;
     color: white;
 }
-
 
 #footer h1{
     color: #fff;
     text-align: center;
 }
 
-.contatinho{
-    margin-top: 0px;
-    font-size: 18px;
-    font-weight: bold;
-}
 
 .img-responsive {
     max-width: 100%;
