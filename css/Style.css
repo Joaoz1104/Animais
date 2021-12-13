@@ -14,11 +14,25 @@
     right: 0;
 }
 
+.container-fluid::before{
+    display: table;
+    content: " ";
+}
+
+#footer p{
+    text-align: center;
+}
+
 .container-fluid{
-    padding-right: 15px;
     padding-left: 15px;
-    margin-right: auto;
+    padding-right: 15px;
     margin-left: auto;
+    margin-right: auto;
+}
+
+.text-white p{
+    font-size: 16px;
+    color: white;
 }
 
 .col-md-3{
@@ -26,8 +40,7 @@
 }
 
 .col-md-6{
-    width: 50%;
-    float: left;
+    width: 100%;
 }
 
 #footer h1{
