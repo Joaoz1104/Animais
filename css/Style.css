@@ -24,8 +24,8 @@
 }
 
 .container-fluid{
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 18px;
+    padding-right: 18px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -35,13 +35,6 @@
     color: white;
 }
 
-.col-md-3{
-    width: 25%;
-}
-
-.col-md-6{
-    width: 100%;
-}
 
 #footer h1{
     color: #fff;
