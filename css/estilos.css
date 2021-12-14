@@ -1,0 +1,92 @@
+.carousel-caption{
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+    top: 5%;
+}
+
+
+#footer {
+    width: 100%;
+    padding-top: 35px;
+    padding-bottom: 40px;
+    background-color: orange;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+#footer p{
+    text-align: center;
+}
+
+.container-fluid{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mbr-text p{
+    font-size: 16px;
+    color: white;
+}
+
+#footer h1{
+    color: #fff;
+    text-align: center;
+}
+
+
+.img-responsive {
+    max-width: 100%;
+}
+
+.place{
+    border-color: #ccc #999 #999 #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #FFFF;
+}
+
+.place h2{
+    border-bottom: 1px dashed #7e9f19;
+    margin: 0;
+}
+
+.fundo{
+    background-color:#FFFF;
+}
+
+.fundo a{
+    color: brown;
+    text-decoration: none;
+}
+
+.place h1 {
+    margin: 0;
+    color: darkturquoise;
+}
+
+.place img{
+    width: 230px;
+    height: 230px;
+    border: 1px solid #7e9f19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 5px;
+}
+
+.clear{
+    clear: both;
+}
+
+.places{
+    float: left;
+    width: 660px;
+}
