@@ -12,3 +12,39 @@
     left: 0;
     right: 0;
 }
+
+#footer {
+    width: 100%;
+    padding-top: 35px;
+    padding-bottom: 40px;
+    background-color: orange;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#footer p{
+    text-align: center;
+}
+
+.container-fluid{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mbr-text p{
+    font-size: 16px;
+    color: white;
+}
+
+#footer h1{
+    color: #fff;
+    text-align: center;
+}
+
+
+.img-responsive {
+    max-width: 100%;
+}
